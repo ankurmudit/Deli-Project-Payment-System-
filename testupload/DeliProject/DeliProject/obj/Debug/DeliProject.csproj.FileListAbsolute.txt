@@ -1,0 +1,13 @@
+C:\Users\Nimantha\documents\visual studio 2013\Projects\DeliProject\DeliProject\bin\Debug\DeliProject.exe.config
+C:\Users\Nimantha\documents\visual studio 2013\Projects\DeliProject\DeliProject\bin\Debug\DeliProject.exe
+C:\Users\Nimantha\documents\visual studio 2013\Projects\DeliProject\DeliProject\bin\Debug\DeliProject.pdb
+C:\Users\Nimantha\documents\visual studio 2013\Projects\DeliProject\DeliProject\obj\Debug\DeliProject.frmMenu.resources
+C:\Users\Nimantha\documents\visual studio 2013\Projects\DeliProject\DeliProject\obj\Debug\DeliProject.frmBill.resources
+C:\Users\Nimantha\documents\visual studio 2013\Projects\DeliProject\DeliProject\obj\Debug\DeliProject.Properties.Resources.resources
+C:\Users\Nimantha\documents\visual studio 2013\Projects\DeliProject\DeliProject\obj\Debug\DeliProject.csproj.GenerateResource.Cache
+C:\Users\Nimantha\documents\visual studio 2013\Projects\DeliProject\DeliProject\obj\Debug\DeliProject.exe
+C:\Users\Nimantha\documents\visual studio 2013\Projects\DeliProject\DeliProject\obj\Debug\DeliProject.pdb
+C:\Users\Nimantha\documents\visual studio 2013\Projects\DeliProject\DeliProject\obj\Debug\DeliProject.csprojResolveAssemblyReference.cache
+F:\COMPLETED\C SHARP\WindowsForm\Systems\DeliProject\DeliProject\bin\Debug\DeliProject.exe.config
+F:\COMPLETED\C SHARP\WindowsForm\Systems\DeliProject\DeliProject\obj\Debug\DeliProject.exe
+F:\COMPLETED\C SHARP\WindowsForm\Systems\DeliProject\DeliProject\obj\Debug\DeliProject.pdb
